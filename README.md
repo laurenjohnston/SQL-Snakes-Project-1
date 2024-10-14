@@ -113,3 +113,7 @@ Relevance: This query is a huge time-saver for hospital employees since it deliv
 
 # Database Information
 Name of databse: cs_dld36590
+Stored procedure: CALL TP_Q1();  -- Executes the first query stored procedure
+                  CALL TP_Q2();  -- Executes the second query stored procedure
+                  CALL TP_Q3();  -- Executes the second query stored procedure
+               *  CALL TP_QN();  -- Executes the (N) query stored procedure 
