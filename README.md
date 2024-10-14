@@ -111,3 +111,5 @@ Relevance: This query provides accurate tracking about separate treatments, maki
 
 Relevance: This query is a huge time-saver for hospital employees since it delivers results instantly, and one does not have to manually count each unpaid bill. The billing department can prioritize different tasks, and keep track of what periods retain the most unpaid bills.
 
+# Database Information
+Name of databse: cs_dld36590
